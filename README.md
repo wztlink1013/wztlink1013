@@ -1,5 +1,5 @@
 <div align="center">
-<h2><b><a href="www.wztlink1013.com">尼采般地抒情</a></b></h2>
+<h1><b>尼采般地抒情</b></h1>
 </div> 
 
 <div align="center">
