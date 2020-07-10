@@ -11,7 +11,9 @@
 <br>
 <br>
 
-<b><details><summary> ✨ 嘿嘿，look this！</summary></b>
+<b><details><summary> ✨ Hi, look this！</summary></b>
+  
+Programming makes me very happy！
 
 好好努力，不给编程界丢人 ~ 溜了溜了🤪
 
