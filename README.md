@@ -3,9 +3,16 @@
 </div> 
 
 <div align="center">
-<h4>什么都无法舍弃，什么也改变不了、</h4>
+<h3>什么都无法舍弃，什么也改变不了、</h3>
 </div> 
 <div align="right">
-<I>—— 进击的巨人·阿尔敏</I>
+<b><I>—— 进击的巨人·阿尔敏</I></b>
 </div> 
 <br>
+<br>
+
+<b><details><summary> ✨ 嘿嘿，look this！</summary></b>
+
+好好努力，不给编程界丢人 ~ 溜了溜了🤪
+
+</details>
