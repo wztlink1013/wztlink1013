@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <h1><b>尼采般地抒情</b></h1>
-</div> 
+</div>  -->
 
 <div align="center">
 <h3>什么都无法舍弃，什么也改变不了、</h3>
