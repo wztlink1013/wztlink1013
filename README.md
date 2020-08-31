@@ -27,8 +27,8 @@ Programming makes me very happy！
  ┃　　　┻　　　┃
  ┃　　　　　　　┃
  ┗━┓　　　┏━┛
- ┃　　　┃ Code is far away from bug with the animal protecting　　　　　　　　
- ┃　　　┃ 神兽保护，永无BUG！
+ ┃　　　┃ `Code is far away from bug with the animal protecting　　`　　　　　　
+ ┃　　　┃ `神兽保护，永无BUG！`
  ┃　　　┗━━━┓
  ┃　　　　　　　┣┓
  ┃　　　　　　　┏┛
