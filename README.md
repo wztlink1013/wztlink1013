@@ -6,17 +6,6 @@
 </div> 
 
 
-### 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
-
-- 🎉 third year in university.
-- ✨ Like technology, love life.
-- 🌱 I'm currently learning Python, JS, CSS.
-
-### Where To Find Me 🔍
-
-- 📝 My Blog: [**尼采般地抒情**](https://blog.wztlink1013.com)
-- ✉️ Email: `wztlink1013@163.com`
-- 🐤 Twitter: [@Wu Zutao 尼采般地抒情](https://twitter.com/wztlink1013)
 <a href="#">
   <img align="right" alt="wztlink1013's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wztlink1013&count_private=true&include_all_commits=true&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
 </a>
@@ -54,6 +43,18 @@ Programming makes me very happy！
 ```
 
 </details>
+
+### 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
+
+- 🎉 third year in university.
+- ✨ Like technology, love life.
+<!-- - 🌱 I'm currently learning Python, JS, CSS.-->
+
+### Where To Find Me 🔍
+
+- 📝 My Blog: [**尼采般地抒情**](https://blog.wztlink1013.com)
+- ✉️ Email: `wztlink1013@163.com`
+- 🐤 Twitter: [@Wu Zutao 尼采般地抒情](https://twitter.com/wztlink1013)
 
 <!-- <a href="https://github.com/wztlink1013?tab=followers">
   <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DFlexiston&style=flat-square">
