@@ -52,13 +52,13 @@ Programming makes me very happy！
 <b><I>—— 进击的巨人·阿尔敏</I></b>
 </div>
 
-### 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
+#### 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
 - 🎉 third year in university.
 - ✨ Like technology, love life.
 <!-- - 🌱 I'm currently learning Python, JS, CSS.-->
 
-### Where To Find Me 🔍
+#### Where To Find Me 🔍
 
 - 📝 My Blog: [**尼采般地抒情**](https://blog.wztlink1013.com)
 - ✉️ Email: `wztlink1013@163.com`
