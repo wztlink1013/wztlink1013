@@ -5,8 +5,17 @@
 <b><I>—— 进击的巨人·阿尔敏</I></b>
 </div> 
 <br>
-<br>
+📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
+- 🎉 third year in university.
+- ✨ Like technology, love life.
+- 🌱 I'm currently learning Python, JS, CSS.
+
+### Where To Find Me 🔍
+
+- 📝 My Blog: [**尼采般地抒情**](https://blog.wztlink1013.com)
+- ✉️ Email: `wztlink1013@163.com`
+- 🐤 Twitter: [@Wu Zutao 尼采般地抒情](https://twitter.com/wztlink1013)
 <a href="#">
   <img align="right" alt="wztlink1013's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wztlink1013&count_private=true&include_all_commits=true&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
 </a>
