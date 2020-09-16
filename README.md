@@ -4,8 +4,9 @@
 <div align="right">
 <b><I>—— 进击的巨人·阿尔敏</I></b>
 </div> 
-<br>
-📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
+
+
+### 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
 - 🎉 third year in university.
 - ✨ Like technology, love life.
