@@ -8,7 +8,7 @@
 <br>
 
 <a href="#">
-  <img align="right" alt="wztlink1013's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wztlink1013&count_private=true&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
+  <img align="right" alt="wztlink1013's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wztlink1013&count_private=true&include_all_commits=true&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
 </a>
 
 <b><details><summary> ✨ Hi, look this！</summary></b>
