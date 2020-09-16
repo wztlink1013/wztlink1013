@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center">
 <h3>什么都无法舍弃，什么也改变不了</h3>
 </div> 
 <div align="right">
 <b><I>—— 进击的巨人·阿尔敏</I></b>
-</div> 
+</div> -->
 
 
 <a href="#">
@@ -43,6 +43,14 @@ Programming makes me very happy！
 ```
 
 </details>
+
+<div align="right">
+### 什么都无法舍弃，什么也改变不了
+</div>
+
+<div align="right">
+<b><I>—— 进击的巨人·阿尔敏</I></b>
+</div>
 
 ### 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
