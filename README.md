@@ -10,11 +10,6 @@
 <a href="#">
   <img align="right" alt="wztlink1013's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wztlink1013&count_private=true&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
 </a>
-<br>
-<a href="#">
-  <img align="right" alt="wztlink1013's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wztlink1013">
-</a>
-
 
 <b><details><summary> ✨ Hi, look this！</summary></b>
   
@@ -45,6 +40,6 @@ Programming makes me very happy！
 
 </details>
 
-<a href="https://github.com/wztlink1013?tab=followers">
+<!-- <a href="https://github.com/wztlink1013?tab=followers">
   <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DFlexiston&style=flat-square">
-</a>
+</a> -->
