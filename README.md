@@ -10,7 +10,7 @@
 <a href="#">
   <img align="right" alt="wztlink1013's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wztlink1013&count_private=true&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
 </a>
-
+<br>
 <a href="#">
   <img align="right" alt="wztlink1013's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wztlink1013">
 </a>
