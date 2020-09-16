@@ -1,7 +1,3 @@
-<!-- <div align="center">
-<h1><b>尼采般地抒情</b></h1>
-</div>  -->
-
 <div align="center">
 <h3>什么都无法舍弃，什么也改变不了、</h3>
 </div> 
@@ -10,6 +6,14 @@
 </div> 
 <br>
 <br>
+
+<a href="#">
+  <img align="right" alt="Flexiston's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wztlink1013&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
+</a>
+
+<a href="https://github.com/Flexiston?tab=followers">
+  <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DFlexiston&style=flat-square">
+</a>
 
 <b><details><summary> ✨ Hi, look this！</summary></b>
   
