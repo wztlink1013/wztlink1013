@@ -62,7 +62,7 @@ Programming makes me very happy！
 
 - 📝 My Site: [**尼采般地抒情**](https://wztlink1013.com)
 - ✉️ Email: `wztlink1013@163.com`
-- 🐤 Twitter: [@Wu Zutao 尼采般地抒情](https://twitter.com/wztlink1013)
+- 🐤 Twitter: [**@Wu Zutao 尼采般地抒情**](https://twitter.com/wztlink1013)
 
 <!-- <a href="https://github.com/wztlink1013?tab=followers">
   <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DFlexiston&style=flat-square">
