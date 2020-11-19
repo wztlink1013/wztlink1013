@@ -15,7 +15,7 @@
 </a>
 <!-- https://git-stats.willianrod.com/api/wakatime?username=willianrod&hide_title=true&bg_color=ffffff&hide_border=true -->
 
-<b><details><summary> ✨ Hi, Click here！</summary></b>
+<b><details><summary> ✨ Hi, click here！</summary></b>
   
 Programming makes me very happy！
 
