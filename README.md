@@ -55,7 +55,7 @@ Programming makes me very happy！
 #### 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
 - 🎉 third year in university.
-- ✨ Like technology, love life.
+- ✨ Like technology, but love life more.
 <!-- - 🌱 I'm currently learning Python, JS, CSS.-->
 
 #### Where To Find Me 🔍
