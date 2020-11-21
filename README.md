@@ -42,6 +42,9 @@ Programming makes me very happy！
 
 </details>
 
+<br/>
+
+
 <div align="center">
 <h3>什么都无法舍弃，什么也改变不了</h3>
 </div>
@@ -50,11 +53,15 @@ Programming makes me very happy！
 <b><I>—— 进击的巨人·阿尔敏</I></b>
 </div>
 
+<br/><br/><br/>
+
 #### 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
 - 🎉 third year in university.
 - ✨ Like technology, but love life more.
 <!-- - 🌱 I'm currently learning Python, JS, CSS.-->
+
+<br/>
 
 #### Where To Find Me 🔍
 
