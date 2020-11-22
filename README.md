@@ -50,7 +50,7 @@ Programming makes me very happy！
 </div>
 
 <div align="right">
-<b><I>—— 进击的巨人·阿尔敏</I></b>
+<b><I>—— アルミン・アルレルト（爱尔敏·阿诺德）</I></b>
 </div>
 
 <br/><br/><br/>
