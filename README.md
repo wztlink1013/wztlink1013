@@ -11,7 +11,7 @@
   
 Programming makes me very happy！
 
-好好努力，不给编程界丢人 ~ 溜了溜了🤪
+溜了溜了🤪
 
 ```
 
