@@ -1,17 +1,17 @@
-<a href="#">
-  <img align="right" alt="wztlink1013's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wztlink1013&count_private=true&include_all_commits=true&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
-</a>
+<div align="center">
+<span><b> <pre>I'm 尼采般地抒情, a web developer.</pre></b></span>
+</div>
 
-<a href="#">
-  <img align="right" alt="wztlink1013's Github Stats" src="https://git-stats.willianrod.com/api/wakatime?username=wztlink1013&count_private=true&include_all_commits=true&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
-</a>
+#### 🎨 **Blogger** / 💻 **Developer**
 
+- 🎉 Just started working for an internet company.
+- ✨ Like technology, but love life more.
 
-<b><details><summary> ✨ Hi, click here！</summary></b>
-  
-Programming makes me very happy！
+<details><summary style="display: none"> ✨ Hi, click here！</summary>
 
-溜了溜了🤪
+Programming makes me very happy！(`厚礼蟹 ~ `)
+
+🤪
 
 ```
 
@@ -34,29 +34,34 @@ Programming makes me very happy！
 
 </details>
 
-<br/>
-
 
 <div align="center">
-<h3>什么都无法舍弃，什么也改变不了</h3>
+      <a href="https://github.com/wztlink1013" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=wztlink1013&count_private=true&show_icons=true&locale=en&line_height=29&hide_title=true"
+          alt="wztlink1013"
+          height="137px"
+          width="45%"
+        />
+      </a>
+      <a href="https://github.com/wztlink1013" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=wztlink1013&count_private=true&show_icons=true&locale=en&layout=compact&hide_title=true&hide=HTML,Jupyter%20Notebook,CSS,Less"
+          alt="wztlink1013"
+          height="137px"
+          width="45%"
+        />
+      </a>
 </div>
 
-<div align="right">
-<b><I>—— アルミン・アルレルト（爱尔敏·阿诺德）</I></b>
+#### 🔍 **Where To Find Me**
+
+- 📝 Site: [网站主页 | 尼采般地抒情](https://www.wztlink1013.com)
+- ✉️ Email: wztlink1013@163.com
+- 📫 Telegram: [尼采般地抒情@wztlink1013](https://t.me/wztlink1013)
+
+<div align="center">
+<img src="https://count.getloli.com/get/@:wztlink1013?theme=gelbooru" alt=":name" />
+<br />
+<span><b><u>Thank you for the visit.</u></b></span>
 </div>
-
-<br/><br/>
-
-#### 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
-
-- 🎉 third year in university.
-- ✨ Like technology, but love life more.
-<!-- - 🌱 I'm currently learning Python, JS, CSS.-->
-
-
-#### Where To Find Me 🔍
-
-- 📝 My Site: [**尼采般地抒情**](https://www.wztlink1013.com)
-- ✉️ Email: `wztlink1013@163.com`
-- 🐤 Twitter: [**@Wu Zutao 尼采般地抒情**](https://twitter.com/wztlink1013)
-
