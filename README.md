@@ -56,7 +56,7 @@ Programming makes me very happy！(`厚礼蟹 ~ `)
 
 #### 🔍 **Where To Find Me**
 
-- 📝 Site: [网站主页 | 尼采般地抒情](https://www.wztlink1013.com)
+- 📝 Site: [网站主页 | 尼采般地抒情](https://wztlink1013.com)
 - ✉️ Email: wztlink1013@163.com
 - 📫 Telegram: [尼采般地抒情@wztlink1013](https://t.me/wztlink1013)
 
