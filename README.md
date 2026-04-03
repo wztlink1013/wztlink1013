@@ -13,7 +13,10 @@ I'm an indie developer who builds tools for makers and creators.
 - Email [wztlink1013@163.com](mailto:wztlink1013@163.com)
 
 <div align="center">
-<img src="https://count.getloli.com/get/@:wztlink1013?theme=gelbooru" alt=":name" />
-<br />
-<span><b><u>Thank you for the visit.</u></b></span>
+  <picture>
+    <source srcset="https://count.getloli.com/get/@:wztlink1013?theme=gelbooru" />
+    <img src="https://img.shields.io/badge/visitors-welcome-brightgreen?style=flat" alt="Visitor Counter" />
+  </picture>
+  <br />
+  <span><b><u>Thank you for the visit.</u></b></span>
 </div>
