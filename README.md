@@ -4,7 +4,7 @@ I'm an indie developer who builds tools for makers and creators.
 
 - 🌐 [wztlink1013.com](https://wztlink1013.com) — Personal site
 - 🌟 [musemvp.com](https://musemvp.com) — Next.js SaaS starter template for shipping fast
-- 📚 [showverge.com](https://showverge.com) — Knowledge base & creation platform
+<!-- - 📚 [showverge.com](https://showverge.com) — Knowledge base & creation platform -->
 - ✏️ [editor.showverge.com](https://editor.showverge.com) — Feature-rich rich text editor SDK
 
 **Find me**
